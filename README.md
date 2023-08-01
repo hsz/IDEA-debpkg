@@ -1,5 +1,7 @@
 # debpkg - Debian Packaging Support
 
+foo
+
 ![Build](https://github.com/nthykier/IDEA-debpkg/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/com.github.nthykier.debpkg.svg)](https://plugins.jetbrains.com/plugin/14724-debian-packaging-support)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/com.github.nthykier.debpkg.svg)](https://plugins.jetbrains.com/plugin/14724-debian-packaging-support)
